@@ -15,6 +15,8 @@ document.getElementById ("registroForm").addEventListener("submit", function(eve
   document.getElementById("errorConfirmPassword").innerText = "";
 
   let errores = false;
+  // Este es un cambio para forzar a Git a detectarlo
+
 
 
     // Validar Nombre
