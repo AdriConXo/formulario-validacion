@@ -46,3 +46,4 @@ document.getElementById("registroForm").addEventListener("submit", function(even
         document.getElementById("registroForm").reset(); // Limpiar formulario
     }
 });
+// Forzando a Git a detectar cambios
